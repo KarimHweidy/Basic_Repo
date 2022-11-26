@@ -9,7 +9,7 @@
 
 int main()
 {
-	int x = 7;
+	char y = 12;
 	/*develop version*/
 	int z = x+1;
 	int y = z+x;
