@@ -9,7 +9,11 @@
 
 int main()
 {
-	char master  = 22;
+
+
+
+	char develop = 77;
+
 	/*develop version*/
 	int z = x+1;
 	int y = z+x;
